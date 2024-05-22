@@ -1,4 +1,6 @@
-# Q_learning_for_Photonic_Geom_Optimization
+# Multiagent reinforcement learning for notch filter and bandpass filter forward, inverse, guide, or pattern discover design. 
+
+Here is the example of single notch, double-notch, tripe-notch 
 
 
-Model Based DQN + 2D FDTD disordered simulation env => Optimzation of T, following up of inverse design disordered waveguides, on the path of All optical neural networks
+![Screenshot 2024-05-22 113247](https://github.com/ZooBeasts/Multiagent-reinforcement-learning-for-notch-filter-and-bandpass-filter-design/assets/75404784/e4a5ecd6-0673-4ae6-8db8-54be63a75c29)
