@@ -1,9 +1,9 @@
 # TFstack
 ### Thin Flim stacking Multi-agent reinforcement learning platform
-### Designing for finding Max/Min Optical response, Bandpass filter
+### Designing for finding Max/Min Optical response, Bandpass filter and antireflective coating
 
 
-### The project is finished and we found the general reward function that works in both max/min response, antireflective and bandpass design
+### The project is finished and we found the general reward function that works in both max/min response, antireflective coating and bandpass design in random or periodic stacking geometry
 
 
 
