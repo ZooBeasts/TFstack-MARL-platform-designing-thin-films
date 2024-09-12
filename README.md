@@ -19,3 +19,5 @@
 
 
 ![episode_6104_intermediate_results_episode_6104_step_50](https://github.com/user-attachments/assets/6de74d4a-607c-45db-9234-320977832c83)
+
+![Figure_step](https://github.com/user-attachments/assets/9428bbff-dbe1-4e8f-8606-86fa90ecea72)
