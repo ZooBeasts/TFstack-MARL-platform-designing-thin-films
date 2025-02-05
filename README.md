@@ -4,7 +4,8 @@
 
 
 ### The project is finished and we found the general reward function that works in both max/min response, antireflective coating and bandpass design in random or periodic stacking geometry
-
+Workflow
+![image](https://github.com/user-attachments/assets/107137c0-8589-4b1c-a0e7-cb7c34987712)
 
 
 
